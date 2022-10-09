@@ -6,7 +6,7 @@ You can fetch channels list in hallway for Clubhouse mobile application
 - 1-Open main.py
 - 2-Search: YourToken
 - 3 Put your token
-- 3-Open terminal run the code-> python main.py
+- 4-Open terminal run the code-> python main.py
 
 
 ## Description
